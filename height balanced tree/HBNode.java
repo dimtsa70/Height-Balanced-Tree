@@ -1,5 +1,5 @@
 
-package ce326.hw1;
+
 
 // Dhmiourgia antikeimenou komvou
 public class HBNode {
